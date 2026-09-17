@@ -6,8 +6,8 @@ Osugi, T., & Kawahara, J. I. (2026). Effect of bowing on facial attractiveness o
 
 ## Videos
 
-* [Long bow](long-bowing.mp4)
-* [Short bow](short-bowing.mp4)
+* [Long bow](long bowing.mp4)
+* [Short bow](short bowing.mp4)
 
 The videos show simulations of long and short bows performed by 3D computer-generated models.
 
